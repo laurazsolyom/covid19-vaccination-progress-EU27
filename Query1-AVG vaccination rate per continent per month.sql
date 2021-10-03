@@ -3,7 +3,7 @@
 -- CreateDate: 22/09/2021
 -- Description: Calculates average vaccination rate per continent per month
 -- Tableau dataset: 1 vaccination rate per continent 
--- Tableau vizualization: https://public.tableau.com/app/profile/laura.zsolyom/viz/Explanationofcovid-19vaccinationprogress/Explanationofcovid-19vaccinationprogress
+-- Tableau visualization: https://public.tableau.com/app/profile/laura.zsolyom/viz/Explanationofcovid-19vaccinationprogress/Explanationofcovid-19vaccinationprogress
 -- =========================================
 
 WITH tVaccination AS (
