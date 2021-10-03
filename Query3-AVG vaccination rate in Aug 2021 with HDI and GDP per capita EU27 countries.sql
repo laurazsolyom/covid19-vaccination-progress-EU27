@@ -3,7 +3,7 @@
 -- CreateDate: 22/09/2021
 -- Description: Calculates Average vaccination rate in August 2021, HDI and GDP per capita per EU27 countries
 -- Tableau dataset: 3 hdi gdp fully vaccination EU27
--- Tableau vizualization: https://public.tableau.com/app/profile/laura.zsolyom/viz/Explanationofcovid-19vaccinationprogress/Explanationofcovid-19vaccinationprogress
+-- Tableau visualization: https://public.tableau.com/app/profile/laura.zsolyom/viz/Explanationofcovid-19vaccinationprogress/Explanationofcovid-19vaccinationprogress
 -- =========================================
 
 
