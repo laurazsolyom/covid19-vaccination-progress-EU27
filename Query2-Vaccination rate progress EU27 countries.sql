@@ -3,7 +3,7 @@
 -- CreateDate: 22/09/2021
 -- Description: Calculates vaccination rate progress per EU27 countries
 -- Tableau dataset: 2 cummulative fully vaccination EU27
--- Tableau vizualization: https://public.tableau.com/app/profile/laura.zsolyom/viz/Explanationofcovid-19vaccinationprogress/Explanationofcovid-19vaccinationprogress
+-- Tableau visualization: https://public.tableau.com/app/profile/laura.zsolyom/viz/Explanationofcovid-19vaccinationprogress/Explanationofcovid-19vaccinationprogress
 -- =========================================
 
 
