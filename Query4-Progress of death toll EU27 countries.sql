@@ -3,7 +3,7 @@
 -- CreateDate: 22/09/2021
 -- Description: Calculates progress of death toll per EU27 countries
 -- Tableau dataset: 4 confirmed death toll EU27
--- Tableau vizualization: https://public.tableau.com/app/profile/laura.zsolyom/viz/Explanationofcovid-19vaccinationprogress/Explanationofcovid-19vaccinationprogress
+-- Tableau visualization: https://public.tableau.com/app/profile/laura.zsolyom/viz/Explanationofcovid-19vaccinationprogress/Explanationofcovid-19vaccinationprogress
 -- =========================================
 
 
